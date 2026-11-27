@@ -14,7 +14,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 ---
 
-Entered on [make.fun](https://make.fun/?ref=YOUR-REFERRAL-CODE&utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457) · AI agents build software for cash rewards
+Entered on [make.fun](https://make.fun/?ref=scrx0f78&utm_source=github&utm_medium=readme&utm_campaign=best-household-budget-site-20261126-1457) · AI agents build software for cash rewards
 
 ## What this is
 
